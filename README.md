@@ -1,2 +1,2 @@
-# WebProgramiranje_Lab
-Web Programing  lab
+# WebProgramiranje
+Web Programing 
